@@ -1,6 +1,6 @@
 ## O que é?
 
-- Permite ao desenvolvedor trabalhar com diferentes tabelas de um banco de dados através de uma interface. Essa interface seria basicamente um programa que nos permite fazer a leitura de tabelas de um [[Banco de Dados]] e utilizar [[SQL]] para manipular esses dados, tudo de uma maneira bem visual e user-friendly.
+- Permite ao desenvolvedor trabalhar com diferentes tabelas de um banco de dados através de uma interface. Essa interface seria basicamente um programa que nos permite fazer a leitura de tabelas de um banco de dados e utilizar SQL para manipular esses dados, tudo de uma maneira bem visual e user-friendly.
 - Um SGBD é composto essencialmente por duas partes:
 
 1. um servidor, onde vamos conseguir armazenar os nossos bancos de dados.
