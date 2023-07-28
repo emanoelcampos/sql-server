@@ -25,4 +25,4 @@
 `FROM`
 	`DimProduct`
 `WHERE`
-	`UnitPrice LIKE >= 1000`
+	`UnitPrice >= 1000`
