@@ -5,4 +5,4 @@
 1. O sinal de porcentagem `( % )`, representa zero, um ou múltiplos caracteres.
 2. O underline `( _ )`, representa  um único caractere.
 
-![[tabela-where.png]]
+![tabela-where.png](..%2F..%2Fassets%2Ftabela-where.png)

@@ -49,6 +49,5 @@
     - Discutir o uso da cláusula DISTINCT para retornar valores distintos em uma consulta.
     - Demonstração prática de como ordenar os resultados usando ORDER BY com exemplos de ordenação ascendente e descendente.
 
-Lembrando que cada tópico pode ser detalhado em um tutorial separado, e é importante ajustar o nível de detalhes com base no público-alvo do material e na complexidade desejada. Essas melhorias podem ajudar a aprimorar o conteúdo e torná-lo mais abrangente para quem estiver estudando SQL básico.
 
-![[sql-cheat-sheet.png]]
+![sql-cheat-sheet.png](..%2Fassets%2Fsql-cheat-sheet.png)
