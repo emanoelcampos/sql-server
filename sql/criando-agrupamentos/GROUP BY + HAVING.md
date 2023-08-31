@@ -1,0 +1,1 @@
+### Filtrando um agrupamento

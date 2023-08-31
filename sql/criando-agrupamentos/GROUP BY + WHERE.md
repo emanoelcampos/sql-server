@@ -1,0 +1,1 @@
+### Filtrando a tabela principal antes de agrupar
